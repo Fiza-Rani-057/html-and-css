@@ -1,0 +1,110 @@
+*{
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(images/image\ 3.avif);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  height: 100vh
+  -gradient(rgb(244, 39, 39), rgb(21, 130, 21),
+   rgb(24, 24, 173), url(images/image\ 3.avif), no-repeat);
+   background-attachment: fixed;
+   background-blend-mode:darken;
+ }
+ 
+
+.div {
+  display: flex;
+  gap: 50px;
+  margin-top: 50px;
+  border: none;
+}
+
+.paro{
+   height: 400px;
+  width: 50%;
+  text-align: center;
+  background-color: black;
+  opacity: 0.8;
+  font-size: 25px;
+  color: antiquewhite;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+    h1{
+      color: rgb(205, 24, 24);
+      opacity: 0.7;
+    }
+    p{
+      color: aqua;
+      opacity: 0.7;
+    }
+.para {
+  height: 400px;
+  width: 50%;
+  text-align: center;
+  background-color: black;
+  opacity: 0.8;
+  font-size: 25px;
+  color: antiquewhite;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.container{
+   display: flex;
+  gap: 50px;
+  margin-top: 50px;
+  border: none;
+}
+  .par{
+    height: 400px;
+  width: 50%;
+  text-align: center;
+  background-color: black;
+  opacity: 0.8;
+  font-size: 25px;
+  color: antiquewhite;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+  
+  .class{
+     height: 400px;
+  width: 50%;
+  text-align: center;
+  background-color: black;
+  opacity: 0.8;
+  font-size: 25px;
+  color: antiquewhite;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+#h1{
+  color: rgb(25, 134, 229);
+}
+  #head{
+    color: aquamarine;
+  }
+  #heading{
+    color: blue;
+  }
+  #p{
+  color: rgb(168, 236, 99);
+  }
+  #pp{
+    color: rgb(225, 157, 132);
+  }
+  #pr{
+    color: rgb(159, 115, 201);
+  }
+  #in{
+    text-align: center;
+    font-size: 50px;
+    color: darkblue;
+    opacity: 1;
+  }
+   
